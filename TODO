@@ -1,4 +1,8 @@
-0. Get needed game data.
-1. Read it.
+TODO file.
+
+Current tasks (+ means already done):
+-------------------------------------
++ 0. Get needed game data.
++ 1. Read it.
 2. Learn how to draw in game's window.
 3. Draw the data.
