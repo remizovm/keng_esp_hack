@@ -1,7 +1,7 @@
 all: keng_esp_hack
 
 keng_esp_hack: esp.o
-	gcc esp.o -o keng_esp_hack -lpsapi
+	gcc esp.o -o keng_esp_hack -lpsapi -lgdi32
 
 esp.o: esp.c
 	gcc -c esp.c
