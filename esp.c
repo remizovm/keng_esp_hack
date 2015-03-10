@@ -75,7 +75,7 @@ void esp()
 			get_view_matrix();
 			float tempCoords[3];
 			if (world_to_screen(coords, tempCoords) == 1) {
-				printf("player %d health: %d (%g:%g:%g) %d\n", i, hp,
+				printf("player %d health: %d (%g:%g:%g)\n", i, hp,
 					coords[0], coords[1], coords[2]);
 				draw_health(tempCoords[0] - rect.left,
 						    tempCoords[1] - rect.top-20, hp);

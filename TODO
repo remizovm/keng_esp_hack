@@ -4,5 +4,7 @@ Current tasks (+ means already done):
 -------------------------------------
 + 0. Get needed game data.
 + 1. Read it.
-2. Learn how to draw in game's window.
-3. Draw the data.
++2. Learn how to draw in game's window.
++3. Draw the data.
+
+08.04.2015 - first working release!
